@@ -13,4 +13,4 @@ Perform exploratory data analysis (EDA) to derive significant insights. Illustra
 
 |Name|Python File|CSV File|My Github|My Linkedln|
 |-|-|-|-|-|
-|Analysis of Company's Sales Data|[Link]()|[Link]()|[Link]()|[Link]()|
+|Analysis of Company's Sales Data|[Link]()|[Link](https://github.com/shubhammeshram01/Analysis-of-Company-s-Sales-Data/blob/main/Financials.csv)|[Link]()|[Link]()|
