@@ -6,7 +6,11 @@ The dataset comprises essential data concerning the company's sales and profit m
 Perform exploratory data analysis (EDA) to derive significant insights. Illustrate sales and profit trends over time for pattern recognition. Offer recommendations and pivotal insights derived from the analysis.
 
 ## Python libraries used :
-* NUmpy
+* NumPy
 * Pandas
 * Seaborn
 * Matplotlib
+
+|Name|Python File|CSV File|My Github|My Linkedln|
+|-|-|-|-|-|
+|Analysis of Company's Sales Data|[Link]()|[Link]()|[Link]()|[Link]()|
