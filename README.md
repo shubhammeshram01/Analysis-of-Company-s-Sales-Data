@@ -11,7 +11,7 @@ Perform exploratory data analysis (EDA) to derive significant insights. Illustra
 * Seaborn
 * Matplotlib
 
-# Analyze the following :
+## Analyze the following :
 1) Country-wise analysis like which country has the highest in profit, sales, COGS, units sold
 2) Plotting of country-wise sales on barplot
 3) Country-wise sales and COGS Analysis and plotting of it on bar chart
@@ -27,7 +27,7 @@ Perform exploratory data analysis (EDA) to derive significant insights. Illustra
 13) Analysis by date and time like which year has the highest units sold, profit, COGS
 14) Plotting of sales and COGS year-wise on the bar chart
 
-# Analysis Files
+## Analysis Files
 
 
 |Name|Analysis File|CSV File|My Github|My Linkedln|
