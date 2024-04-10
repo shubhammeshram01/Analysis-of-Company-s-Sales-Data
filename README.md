@@ -32,4 +32,4 @@ Perform exploratory data analysis (EDA) to derive significant insights. Illustra
 
 |Project Name|Analysis File|CSV File|My Github|My Linkedln|
 |-|-|-|-|-|
-|Analysis of Company's Sales Data|[Link](https://github.com/shubhammeshram01/Analysis-of-Company-s-Sales-Data/blob/main/Analysis%20of%20Company's%20Revenue.ipynb)|[Link](https://github.com/shubhammeshram01/Analysis-of-Company-s-Sales-Data/blob/main/Financials.csv)|[Link](https://github.com/shubhammeshram01)|[Link]()|
+|Analysis of Company's Sales Data|[Link](https://github.com/shubhammeshram01/Analysis-of-Company-s-Sales-Data/blob/main/Analysis%20of%20Company's%20Revenue.ipynb)|[Link](https://github.com/shubhammeshram01/Analysis-of-Company-s-Sales-Data/blob/main/Financials.csv)|[Github](https://github.com/shubhammeshram01)|[Linkedln]()|
